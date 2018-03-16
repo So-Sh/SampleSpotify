@@ -1,0 +1,30 @@
+﻿@model SampleSpotify.Models.GenreList
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="form-horizontal">
+    <h4>Select Preferred Genres</h4>
+    <div>
+
+        @using (Html.BeginForm("PostGenres", "Home", FormMethod.Post, new { @class = "list-group row" }))
+        {
+                for (int i = 0; i < Model.Genres.Count; i++)
+                {
+                <div class="list-group-item col-xs-2">
+                    <label class="checkbox-inline">
+                        @Html.CheckBoxFor(m => Model.Genres[i].IsChecked)
+                        @Model.Genres[i].Name
+                        @Html.HiddenFor(m => Model.Genres[i].Name)
+                    </label>
+                </div>
+                }
+            <div style="margin-top:15px">
+                <input type="submit" value="Get Recommendations" class="btn btn-primary" />
+            </div>
+        }
+
+    </div>
+</div>
+

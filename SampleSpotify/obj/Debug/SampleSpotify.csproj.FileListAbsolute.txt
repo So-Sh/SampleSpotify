@@ -1,0 +1,138 @@
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\csc.exe
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\System.Collections.Immutable.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\vbc.exe
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\VBCSCompiler.exe
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\roslyn\VBCSCompiler.exe.config
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\SampleSpotify.dll.config
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\SampleSpotify.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\SampleSpotify.pdb
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Antlr3.Runtime.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Microsoft.Web.Infrastructure.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Newtonsoft.Json.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.Helpers.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.Mvc.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.Optimization.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.Razor.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Deployment.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Razor.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\WebGrease.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.Helpers.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.Mvc.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.Optimization.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.Razor.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Deployment.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Razor.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Antlr3.Runtime.pdb
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Newtonsoft.Json.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\obj\Debug\SampleSpotify.csprojResolveAssemblyReference.cache
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\obj\Debug\SampleSpotify.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\obj\Debug\SampleSpotify.pdb
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Castle.Core.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Castle.Windsor.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Castle.Windsor.Web.Mvc.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\WebActivatorEx.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Castle.Core.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\bin\Castle.Windsor.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\csc.exe
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\vbc.exe
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\VBCSCompiler.exe
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\SampleSpotify.dll.config
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\SampleSpotify.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\SampleSpotify.pdb
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Antlr3.Runtime.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Castle.Core.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Castle.Windsor.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Castle.Windsor.Web.Mvc.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Newtonsoft.Json.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.Helpers.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.Mvc.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.Optimization.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.Razor.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Razor.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\WebActivatorEx.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\WebGrease.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Castle.Core.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Castle.Windsor.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.Helpers.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.Mvc.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.Optimization.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.Razor.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Razor.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Antlr3.Runtime.pdb
+D:\Work\Programs\SampleSpotify\SampleSpotify\bin\Newtonsoft.Json.xml
+D:\Work\Programs\SampleSpotify\SampleSpotify\obj\Debug\SampleSpotify.csprojResolveAssemblyReference.cache
+D:\Work\Programs\SampleSpotify\SampleSpotify\obj\Debug\SampleSpotify.dll
+D:\Work\Programs\SampleSpotify\SampleSpotify\obj\Debug\SampleSpotify.pdb
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\csc.exe
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\System.Collections.Immutable.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\vbc.exe
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\VBCSCompiler.exe
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\roslyn\VBCSCompiler.exe.config
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\SampleSpotify.dll.config
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\SampleSpotify.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\SampleSpotify.pdb
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Antlr3.Runtime.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Castle.Core.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Castle.Windsor.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Castle.Windsor.Web.Mvc.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Microsoft.Web.Infrastructure.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Newtonsoft.Json.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.Helpers.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.Mvc.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.Optimization.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.Razor.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Deployment.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Razor.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\WebActivatorEx.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\WebGrease.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Castle.Core.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Castle.Windsor.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.Helpers.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.Mvc.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.Optimization.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.Razor.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Deployment.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\System.Web.WebPages.Razor.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Antlr3.Runtime.pdb
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\bin\Newtonsoft.Json.xml
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\obj\Debug\SampleSpotify.dll
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\obj\Debug\SampleSpotify.pdb
+C:\Saeed\Sample Work\Cloud Nine\SampleSpotify\SampleSpotify\SampleSpotify\obj\Debug\SampleSpotify.csprojResolveAssemblyReference.cache

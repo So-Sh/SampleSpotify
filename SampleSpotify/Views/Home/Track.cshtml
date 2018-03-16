@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SampleSpotify.Models.Track>
+
+@{
+    ViewBag.Title = "Tracks";
+}
+
+<h4>Recommended Tracks</h4>
+
+
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                Artist Name
+            </th>
+            <th>
+                Duration
+            </th>
+            <th>
+                Track Name
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.artists[0].name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.duration)
+                </td>
+                <td>
+                   <a href="@Html.DisplayFor(modelItem => item.preview_url)" target="_blank">@Html.DisplayFor(modelItem => item.name)</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a class="btn btn-primary" href="javascript:void(0);" onclick="history.go(-1);">Change Genres</a>
+</div>
