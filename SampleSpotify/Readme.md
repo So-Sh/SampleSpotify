@@ -9,4 +9,4 @@ This is a sample MVC application that demonstrates how to use [Spotify's web API
     <add key="SpotifyClientSecret" value="Your ClientSecret"/>
   
 	```
-0. Third item.
+0. Run the Project.
